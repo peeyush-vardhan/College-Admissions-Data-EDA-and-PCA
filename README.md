@@ -1,0 +1,3 @@
+# College-Admissions-Data-EDA-and-PCA
+Part 2 of the project: The project involved drawing inferences from 2 case studies, namely - Hay Fever Drug Analysis, College Admissions Data. The concepts of Exploratory Data Analysis, Analysis of Variance, and Principal Component Analysis are used to draw inferences from these case studies.
+The dataset Education - Post 12th Standard.csv is a dataset that contains the names of various colleges. This particular case study is based on various parameters of various institutions. You are expected to do Principal Component Analysis for this case study according to the instructions given in the following rubric. The data dictionary of the 'Education - Post 12th Standard.csv' can be found in the following file: Data Dictionary.xlsx.
